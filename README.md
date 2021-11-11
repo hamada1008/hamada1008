@@ -2,7 +2,8 @@
 
 I'm a full Stack web developer / Engineer from 🇹🇳. I'm a 💻 computerphile, mouse potato, IT Geek... Whatever you feel like calling me ^-^, In addition to being a dedicated gamer 🎮.
 <br/>
-You can know more about me if you make a small tour in my humble : ( [portfolio](https://oussamahamada.netlify.app//) )
+
+You can know more about me if you make a small tour in my humble : ( **[portfolio]**(https://oussamahamada.netlify.app) )
 
 <h3 >Skills and Tools:</h3>
 <p>  
