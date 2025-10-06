@@ -10,7 +10,7 @@ I'm a Full Stack Web developer / Engineer from 🇹🇳 with over **3 years of e
 - 📫 You can know more about me in my **[portfolio](https://oussamahamada.netlify.app)**
 
 <h3 >Skills and Tools:</h3>
-<p>  
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
@@ -78,7 +78,6 @@ I'm a Full Stack Web developer / Engineer from 🇹🇳 with over **3 years of e
 <a href="https://mochajs.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
 </a>
-</p>
 
 <h3 >Connect with me via LinkedIn:</h3>
 
