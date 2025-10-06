@@ -10,7 +10,7 @@ I'm a Full Stack Web developer / Engineer from 🇹🇳 with over **3 years of e
 - 📫 You can know more about me in my **[portfolio](https://oussamahamada.netlify.app)**
 
 <h3 >Skills and Tools:</h3>
-<p style="text-decoration:none;">  
+<div style="text-decoration:none;">  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
