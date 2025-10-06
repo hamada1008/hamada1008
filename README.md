@@ -78,7 +78,7 @@ I'm a Full Stack Web developer / Engineer from 🇹🇳 with over **3 years of e
 <a href="https://mochajs.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
 </a>
-</p>
+</div>
 
 <h3 >Connect with me via LinkedIn:</h3>
 
